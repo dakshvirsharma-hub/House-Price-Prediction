@@ -28,3 +28,6 @@ I made this project to learn Machine Learning and Streamlit. It takes house deta
 
 #Live Demo
 house-price-prediction-by-daksh.streamlit.app
+# Project Screenshot 
+## Screenshot
+![House Price Prediction](screenshot.png)
